@@ -7,10 +7,7 @@ body {
 	margin-left: auto;
 	font-family: Calibri, Arial, sans-serif;
 	color: #333;	
-	background-image: url('images/voyager.png'); 
-	background-repeat: no-repeat;
-	background-size: 100%;
-	background-position: center bottom;	
+	background: url('./images/voyager.png') no-repeat center center/contain;
 }
 
 header {
